@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  SwiftUIChatApp
-//
-//  Created by Tsaruk Nick on 4.01.24.
-//
-
 import SwiftUI
 
 struct ContentView: View {
